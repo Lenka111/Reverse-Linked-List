@@ -24,7 +24,8 @@ public class main {
 
         }
     }
-//or use a for loop and print the items in the list in a descending order
+//or create a method with a for loop and print the items in the list in a descending order
+    
   //  public static void reverse(LinkedList<String> list){
   //      for(int i = list.size()-1; i >= 0; i --){
   //          System.out.println(i);
