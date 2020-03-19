@@ -1,4 +1,4 @@
-
+//Elena Voinu
 
 import java.util.Iterator;
 import java.util.LinkedList;
@@ -24,12 +24,10 @@ public class main {
 
         }
     }
-
-
-
-    public static void reverse(LinkedList<String> list){
-        for(int i = list.size()-1; i >= 0; i --){
-            System.out.println(i);
+//or use a for loop and print the items in the list in a descending order
+  //  public static void reverse(LinkedList<String> list){
+  //      for(int i = list.size()-1; i >= 0; i --){
+  //          System.out.println(i);
         }
     }
 }
